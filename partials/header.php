@@ -108,7 +108,7 @@
                         </a>
                     </li>
                     <li class="nav-item level_1">
-                        <a class="nav-link level_link_1" href="./services.php">
+                        <a class="nav-link level_link_1" href="<?php echo $base_url; ?>services.php">
                             <span class="w-nav-title">Services</span>
                             <span class="w-nav-arrow"></span>
                         </a>
