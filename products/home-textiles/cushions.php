@@ -1,4 +1,4 @@
-<?php include '../config.php'; ?>
+<?php include '../../config.php'; ?>
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -10,21 +10,21 @@
     Enorsia PFD Pvt. Ltd. &#8211; Crafting Excellence, &#8211; Building Trust
   </title>
 
-  <?php include('../partials/styles.php') ?>
+  <?php include('../../partials/styles.php') ?>
 
 
 </head>
 
 <body>
-  <?php include('../partials/header.php') ?>
+  <?php include('../../partials/header.php') ?>
 
   <main class="main">
 
     <section class="products_bg knitwear_bg">
       <div class="products_text">
         <div class="products_title">
-          <h1>Home Textiles</h1>
-          <h6>Woven to Home Textiles</h6>
+          <h1>Cushions</h1>
+          <h6>Woven to Cushions</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">
@@ -40,30 +40,10 @@
           <div class="col-12">
             <div class="img_container">
 
+           
               <div class="big">
-                <a href="<?php echo $base_url; ?>assets/images/products/denim/1.jpeg" data-fancybox="gallery" data-caption="">
-                  <img src="<?php echo $base_url; ?>assets/images/products/denim/1.jpeg" />
-                </a>
-              </div>
-
-              <div>
-                <a href="<?php echo $base_url; ?>assets/images/products/denim/2.jpeg" data-fancybox="gallery" data-caption="Caption #1">
-                  <img src="<?php echo $base_url; ?>assets/images/products/denim/2.jpeg" />
-                </a>
-              </div>
-              <div class="big">
-                <a href="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
-                  <img src="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" />
-                </a>
-              </div>
-              <div>
-                <a href="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" data-fancybox="gallery" data-caption="Caption #1">
-                  <img src="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" />
-                </a>
-              </div>
-              <div>
-                <a href="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" data-fancybox="gallery" data-caption="Caption #1">
-                  <img src="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" />
+              <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/cushions/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/cushions/1.jpeg" />
                 </a>
               </div>
              
@@ -132,9 +112,9 @@
 
   </main>
 
-  <?php include('../partials/footer.php') ?>
+  <?php include('../../partials/footer.php') ?>
 
-  <?php include('../partials/script.php') ?>
+  <?php include('../../partials/script.php') ?>
 </body>
 
 </html>

@@ -9,7 +9,7 @@
                         <a
                             class="nav-link level_link_1 active"
                             aria-current="page"
-                            href="./index.php">
+                            href="<?php echo $base_url; ?>index.php">
                             <span class="w-nav-title">Home</span>
                             <span class="w-nav-arrow"></span>
                         </a>
@@ -53,37 +53,37 @@
                                 </a>
                                 <ul class="dropdown-menu level_3">
                                     <li>
-                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/hometextiles.php">
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/bedding.php">
                                             Bedding
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/hometextiles.php">
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/blanket.php">
                                             Blanket
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/hometextiles.php">
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/curtains.php">
                                             Curtains
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/hometextiles.php">
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/cushions.php">
                                             Cushions
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/hometextiles.php">
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/duvet-set.php">
                                             Dubet set
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/hometextiles.php">
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/flannels.php">
                                             Flannels
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/hometextiles.php">
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/quilts.php">
                                             Quilts
                                         </a>
                                     </li>
@@ -97,6 +97,9 @@
                             </li>
                             <li>
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/denim.php">Denim</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/woven.php">Woven</a>
                             </li>
                         </ul>
                     </li>
