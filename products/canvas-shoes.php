@@ -23,8 +23,8 @@
     <section class="products_bg knitwear_bg">
       <div class="products_text">
         <div class="products_title">
-          <h1>Knitted</h1>
-          <h6>Woven to Knitted</h6>
+          <h1>Canvas Shoes</h1>
+          <h6>Woven to Canvas Shoes</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">
@@ -47,22 +47,22 @@
               </div>
 
               <div>
-                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" />
                 </a>
               </div>
               <div class="big">
-                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" />
                 </a>
               </div>
               <div>
-                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/4.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/4.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/4.jpeg" />
                 </a>
               </div>
               <div>
-                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/5.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/5.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/5.jpeg" />
                 </a>
               </div>
