@@ -41,11 +41,9 @@
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-gloves.php">Leather Gloves</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/workwear-towels.php">Workwear</a>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/workwear-towels.php">Workwear Towels</a>
                             </li>
-                            <li>
-                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/workwear-towels.php">Towels</a>
-                            </li>
+                          
                             <li class="has-sub-cats">
                                 <a class="dropdown-item level_link_3" href="#">
                                     Home Textiles
