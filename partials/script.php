@@ -1,4 +1,4 @@
-<script type="text/javascript" src="assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="<?php echo $base_url; ?>assets/js/jquery.min.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
 <script
@@ -7,7 +7,7 @@
   crossorigin="anonymous"></script>
 <!-- Swiper JS -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script type="text/javascript" src="assets/js/custom.js"></script>
+<script type="text/javascript" src="<?php echo $base_url; ?>assets/js/custom.js"></script>
 <script>
   document.querySelectorAll(".toggle-btn").forEach((button) => {
     button.addEventListener("click", (event) => {
