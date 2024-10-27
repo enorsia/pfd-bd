@@ -1,6 +1,7 @@
 <header class="header">
     <nav class="navbar navbar-expand-lg bg-white p-0">
         <div class="container-fluid">
+         
             <a class="navbar-brand" href="<?php echo $base_url; ?>index.php"><img src="<?php echo $base_url; ?>assets/images/pk-logo.png" alt="logo" /></a>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -8,7 +9,7 @@
                         <a
                             class="nav-link level_link_1 active"
                             aria-current="page"
-                            href="./index.php">
+                            href="<?php echo $base_url; ?>index.php">
                             <span class="w-nav-title">Home</span>
                             <span class="w-nav-arrow"></span>
                         </a>
@@ -18,28 +19,93 @@
                   <span class="w-nav-title">Global</span>
                   <span class="w-nav-arrow"></span>
                 </a>
-              </li>-->
+            </li>-->
+                    <li class="nav-item level_1 has-cats">
+                        <!-- <a class="nav-link level_link_1" href="#">
+                            <span class="w-nav-title">Products</span>
+                        </a> -->
+                        <a class="nav-link level_link_1" href="#">
+                            <span class="w-nav-title">Products</span>
+                            <span class="w-nav-arrow"></span>
+                        </a>
+                        <ul class="dropdown-menu level_2">
+                            <li class="level_2">
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/knitwear.php">
+                                    Knitwear
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-jackets.php">Leather Jackets</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-gloves.php">Leather Gloves</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/workwear-towels.php">Workwear Towels</a>
+                            </li>
+                          
+                            <li class="has-sub-cats">
+                                <a class="dropdown-item level_link_3" href="#">
+                                    Home Textiles
+                                    <span class="w-nav-arrow"></span>
+                                </a>
+                                <ul class="dropdown-menu level_3">
+                                    <li>
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/bedding.php">
+                                            Bedding
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/blanket.php">
+                                            Blanket
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/curtains.php">
+                                            Curtains
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/cushions.php">
+                                            Cushions
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/duvet-set.php">
+                                            Dubet set
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/flannels.php">
+                                            Flannels
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="<?php echo $base_url; ?>products/home-textiles/quilts.php">
+                                            Quilts
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/canvas-shoes.php">Canvas Shoes</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/football.php">Sports Ball</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/denim.php">Denim</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/woven.php">Woven</a>
+                            </li>
+                        </ul>
+                    </li>
                     <li class="nav-item level_1">
                         <a class="nav-link level_link_1" href="#about_us">
                             <span class="w-nav-title">About US</span>
                             <span class="w-nav-arrow"></span>
                         </a>
-                    </li>
-                    <li class="nav-item level_1 dropdown">
-                        <a class="nav-link level_link_1 dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            <span class="w-nav-title">Products</span>
-                            <span class="w-nav-arrow"></span>
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/knitwear.php">KNITWEAR</a></li>
-                            <li><a class="dropdown-item" href="../products/leather-jackets.php">LEATHER JACKETS</a></li>
-                            <li><a class="dropdown-item" href="../products/leather-gloves.php">LEATHER GLOVES</a></li>
-                            <li><a class="dropdown-item" href="../products/workwear-towels.php">WORKWEAR- TOWELS</a></li>
-                            <li><a class="dropdown-item" href="./products/hometextiles.php">HOMETEXTILES</a></li>
-                            <li><a class="dropdown-item" href="./products/canvas-shoes.php">CANVAS SHOES</a></li>
-                            <li><a class="dropdown-item" href="./products/football.php">FOOTBALL</a></li>
-                            <li><a class="dropdown-item" href="./products/denim.php">DENIM</a></li>
-                        </ul>
                     </li>
                     <li class="nav-item level_1">
                         <a class="nav-link level_link_1" href="./services.php">
@@ -68,7 +134,7 @@
             <a href="#" title="LinkedIn" aria-label="LinkedIn">
               <img src="assets/images/linkedin.png" alt="linkedin">
             </a>
-          </div> -->
+        </div> -->
             </div>
         </div>
     </nav>
