@@ -41,7 +41,10 @@
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-gloves.php">Leather Gloves</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/workwear-towels.php">Workwear Towels</a>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/workwear.php">Workwear</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/towels.php">Towels</a>
                             </li>
                           
                             <li class="has-sub-cats">
