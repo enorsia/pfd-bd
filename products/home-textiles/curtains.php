@@ -24,7 +24,7 @@
       <div class="products_text">
         <div class="products_title">
           <h1>Curtains</h1>
-          <h6>Woven to Curtains</h6>
+          <!-- <h6>Woven to Curtains</h6> -->
         </div>
         <div class="products_arrow">
           <a href="#product_id">

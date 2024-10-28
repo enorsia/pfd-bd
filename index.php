@@ -195,7 +195,7 @@
         <div class="bg-overlay"></div>
         <div class="container-fluid text-center">
           <h3>Every Stitch in Place!</h3>
-          <a class="btn btn-yellow" href="./services.html">
+          <a class="btn btn-yellow" href="services.php">
             <span class="w-btn-label">Services</span>
           </a>
         </div>
@@ -441,7 +441,7 @@
             </div>
             <div class="col-12 col-lg-4 text-center d-flex justify-content-center ">
               <div class="service_btn">
-                <a class="btn btn-white" href="./services.html">
+                <a class="btn btn-white" href="services.php">
                   <span class="w-btn-label">Services</span>
                 </a>
               </div>

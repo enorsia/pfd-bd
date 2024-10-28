@@ -23,8 +23,8 @@
     <section class="products_bg knitwear_bg">
       <div class="products_text">
         <div class="products_title">
-          <h1>Knitted</h1>
-          <h6>Woven to Knitted</h6>
+          <h1>Knitwear</h1>
+          <!-- <h6>Woven to Knitted</h6> -->
         </div>
         <div class="products_arrow">
           <a href="#product_id">

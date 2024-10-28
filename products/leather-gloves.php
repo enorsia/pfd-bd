@@ -24,7 +24,7 @@
       <div class="products_text">
         <div class="products_title">
           <h1>Leather Gloves</h1>
-          <h6>Woven to Leather Gloves</h6>
+          <!-- <h6>Woven to Leather Gloves</h6> -->
         </div>
         <div class="products_arrow">
           <a href="#product_id">
