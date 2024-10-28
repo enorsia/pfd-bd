@@ -44,7 +44,6 @@
                   <img src="<?php echo $base_url; ?>assets/images/products/leather_jackets/1.jpeg" />
                 </a>
               </div>
-
               <div>
                 <a href="<?php echo $base_url; ?>assets/images/products/leather_jackets/2.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/leather_jackets/2.jpeg" />

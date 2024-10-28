@@ -38,6 +38,9 @@
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-jackets.php">Leather Jackets</a>
                             </li>
                             <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/pu-jackets.php">Pu Jackets</a>
+                            </li>
+                            <li>
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-gloves.php">Leather Gloves</a>
                             </li>
                             <li>
