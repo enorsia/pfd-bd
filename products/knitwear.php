@@ -20,11 +20,11 @@
 
   <main class="main">
 
-    <section class="products_bg knitwear_bg">
+    <section class="products_bg knitwear_dress_bg" style="background-image: url(../assets/images/background/knitwear.jpg);">
       <div class="products_text">
         <div class="products_title">
           <h1>Knitwear</h1>
-          <!-- <h6>Woven to Knitted</h6> -->
+          <h6>BASIC TO FASHION</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">

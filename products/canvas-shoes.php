@@ -20,11 +20,11 @@
 
   <main class="main">
 
-    <section class="products_bg knitwear_bg">
+    <section class="products_bg canvas_shoe_bg" style="background-image: url(../assets/images/background/canvas-shoes.jpg);">
       <div class="products_text">
         <div class="products_title">
           <h1>Canvas Shoes</h1>
-          <!-- <h6>Woven to Canvas Shoes</h6> -->
+          <h6>CASUAL WITH COMFORT</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">

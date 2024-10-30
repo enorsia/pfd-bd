@@ -20,11 +20,11 @@
 
   <main class="main">
 
-    <section class="products_bg knitwear_bg">
+    <section class="products_bg towels_bg" style="background-image: url(../assets/images/background/towels.jpg);">
       <div class="products_text">
         <div class="products_title">
-          <h1>Towels</h1>
-          <!-- <h6>Woven to Workwear Towels</h6> -->
+          <h1>TOWELS & BATHROBES</h1>
+          <h6>SOLID TO DIGITAL PRINTED</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">

@@ -20,11 +20,11 @@
 
   <main class="main">
 
-    <section class="products_bg knitwear_bg">
+    <section class="products_bg leather_gloves_bg" style="background-image: url(../assets/images/background/leather-gloves.jpg);">
       <div class="products_text">
         <div class="products_title">
           <h1>Leather Gloves</h1>
-          <!-- <h6>Woven to Leather Gloves</h6> -->
+          <h6>ESSENTIALS TO ELEGANT PROTECTION</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">
