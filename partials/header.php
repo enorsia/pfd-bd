@@ -1,7 +1,7 @@
 <header class="header">
     <nav class="navbar navbar-expand-lg bg-white p-0">
         <div class="container-fluid">
-         
+
             <a class="navbar-brand" href="<?php echo $base_url; ?>index.php"><img src="<?php echo $base_url; ?>assets/images/pk-logo.png" alt="logo" /></a>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -29,16 +29,8 @@
                             <span class="w-nav-arrow"></span>
                         </a>
                         <ul class="dropdown-menu level_2">
-                            <li class="level_2">
-                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/knitwear.php">
-                                    Knitwear
-                                </a>
-                            </li>
                             <li>
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-jackets.php">Leather Jackets</a>
-                            </li>
-                            <li>
-                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/pu-jackets.php">Pu Jackets</a>
                             </li>
                             <li>
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/leather-gloves.php">Leather Gloves</a>
@@ -47,9 +39,8 @@
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/workwear.php">Workwear</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/towels.php">Towels</a>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/towels.php">Towels & Bathrobes</a>
                             </li>
-                          
                             <li class="has-sub-cats">
                                 <a class="dropdown-item level_link_3" href="#">
                                     Home Textiles
@@ -93,22 +84,39 @@
                                     </li>
                                 </ul>
                             </li>
+
+
+                            <li class="level_2">
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/knitwear.php">
+                                    Knitwear
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/denim.php">Denim</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/non-denim.php">Non Denim</a>
+                            </li>
+
+                            <!-- <li>
+                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/pu-jackets.php">Pu Jackets</a>
+                            </li>
+                             -->
+                           
                             <li>
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/canvas-shoes.php">Canvas Shoes</a>
                             </li>
                             <li>
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/football.php">Sports Ball</a>
                             </li>
-                            <li>
-                                <a class="dropdown-item" href="<?php echo $base_url; ?>products/denim.php">Denim</a>
-                            </li>
+<!--                           
                             <li>
                                 <a class="dropdown-item" href="<?php echo $base_url; ?>products/woven.php">Woven</a>
-                            </li>
+                            </li> -->
                         </ul>
                     </li>
                     <li class="nav-item level_1">
-                        <a class="nav-link level_link_1" href="#about_us">
+                        <a class="nav-link level_link_1" href="<?php echo $base_url; ?>about-us.php">
                             <span class="w-nav-title">About US</span>
                             <span class="w-nav-arrow"></span>
                         </a>

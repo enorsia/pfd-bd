@@ -45,8 +45,34 @@ $(window).on('scroll resize', function () {
 			body.removeClass('header-sticky');
 		}
 	} else {
-		body.removeClass('header-sticky'); // Remove class if under 991px
+		body.removeClass('header-sticky'); 
 	}
+});
+
+$('.about_us_btn').on('click', function (e) {
+	e.preventDefault(); 
+
+    const target = $('#about_us'); 
+    const viewportHeight = $(window).height(); 
+    const targetOffset = target.offset().top; 
+    const targetHeight = target.outerHeight(); 
+    const scrollPosition = targetOffset - (viewportHeight / 2) + (targetHeight / 2);
+    $('html, body').animate({
+        scrollTop: scrollPosition
+    }, 600);
+});
+
+$('.product_body_id').on('click', function (e) {
+	e.preventDefault(); 
+
+    const target = $('#product_id'); 
+    const viewportHeight = $(window).height(); 
+    const targetOffset = target.offset().top; 
+    const targetHeight = target.outerHeight(); 
+    const scrollPosition = targetOffset - (viewportHeight / 2) + (targetHeight / 2);
+    $('html, body').animate({
+        scrollTop: scrollPosition
+    }, 600);
 });
 
 

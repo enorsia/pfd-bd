@@ -20,11 +20,11 @@
 
   <main class="main">
 
-    <section class="products_bg knitwear_bg">
+    <section class="products_bg sports_bg" style="background-image: url(../assets/images/background/sports.jpg);">
       <div class="products_text">
         <div class="products_title">
           <h1>Sports Ball</h1>
-          <!-- <h6>Woven to Football</h6> -->
+          <h6>KICK OFF TO CHAMPIONSHIP SPIRIT</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">

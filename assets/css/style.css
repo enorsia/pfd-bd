@@ -81,8 +81,9 @@ i {
   background: #fff;
   z-index: 9;
   transition-property: transform, background, box-shadow, line-height, height;
-  transition-duration: 0.3s;
+  transition: all 0.5s ease;
   transition-timing-function: cubic-bezier(0.78, 0.13, 0.15, 0.86);
+  box-shadow: 0px 1px 6px 1px rgb(235 235 235 / 75%);
 }
 .header .container-fluid {
   padding-left: 1.5rem;
@@ -93,6 +94,7 @@ i {
 }
 .navbar-brand img {
   width: 116px;
+  transition: all 0.5s ease;
 }
 .navbar-nav .nav-item .nav-link {
   display: flex;
@@ -188,14 +190,19 @@ button.navbar-toggler {
 .navbar-toggler[aria-expanded="true"] .menu-trigger span:nth-of-type(3) {
   transform: translateY(-10px) rotate(45deg);
 }
+.header-sticky{
+  transition: all 0.5s ease;
+}
 .header-sticky .navbar-brand img {
   width: 74px;
+  transition: all 0.5s ease;
 }
 .header-sticky .nav-item .level_link_1 {
   height: 64px;
 }
 .header-sticky .main {
   padding-top: 64px;
+  transition: all 0.5s ease;
 }
 .navbar-nav .dropdown-menu {
   position: static;
@@ -295,12 +302,13 @@ button.navbar-toggler {
 
 .main {
   padding-top: 150px;
+  transition: all 0.5s ease;
 }
 section {
   padding: 50px 0;
 }
 .banner-section {
-  background: url(https://gli.com.pk/wp-content/uploads/gli-vision-02.jpg)
+  background: url(../images/bg-banner.jpg)
     no-repeat fixed left top / cover;
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -332,7 +340,16 @@ section {
 .products-section {
   padding: 50px 0 5px;
 }
-
+.product_body{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 10px;
+}
+#home_textiles .product_body{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
 .product {
   padding: 10px;
 }
@@ -380,6 +397,7 @@ section {
 .pc-title {
   color: #fff;
   font-size: 25px;
+  text-transform: uppercase;
 }
 .pc-caption p {
   font-family: arial, sans-serif;
@@ -387,8 +405,12 @@ section {
   margin: 0;
   padding: 0;
   color: #fff;
+  text-transform: uppercase;
 }
-
+ #compaliance img{
+  min-width: 900px;
+  height: auto;
+ }
 .about-section {
   font-family: "Roboto", Sans-serif;
   background-color: #f6f6f6;
@@ -739,7 +761,7 @@ section {
 /************ Products*****/
 .products_bg{
   background-size: cover;
-  background-position: 50% -707.178px;
+  background-position: center;
   background-attachment: scroll;
   position: relative;
   z-index: 1;
@@ -770,14 +792,16 @@ section {
   left: 50%;
 text-align: center;
   transform: translate(-50%, -50%);
+  width: 100%;
 }
 .products_title h1{
-font-size: 75px;
+font-size: 50px;
 margin: 0px;
 padding: 0px;
+text-transform: uppercase;
 }
 .products_title h6{
-  font-size: 25px;
+  font-size: 23px;
   margin: 0px;
   padding: 0px;
 }
@@ -954,7 +978,6 @@ content: "";
 }
 footer {
   background-color: #131313;
-  /*background-image: url('https://gli.com.pk/wp-content/uploads/gli-logo-black-1.png');*/
   background-repeat: no-repeat;
   background-size: cover;
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -989,6 +1012,17 @@ footer .overlay {
   .container-xxl {
     max-width: 100%;
   }
+  #compaliance img {
+    min-width: 100%;
+    height: auto;
+    width: 100%;
+}
+  .product_body{
+    grid-template-columns: repeat(4, 1fr);
+  }
+  #home_textiles .product_body{
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
 @media (max-width: 991px) {
   .main {
@@ -1015,6 +1049,12 @@ footer .overlay {
   }
   .header .navbar {
     height: 100%;
+  }
+  .product_body{
+    grid-template-columns: repeat(3, 1fr);
+  }
+  #home_textiles .product_body{
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 @media (max-width: 767px) {
@@ -1055,6 +1095,12 @@ section {
 .img_container {
    padding-right: 0px; 
 }
+.product_body{
+  grid-template-columns: repeat(2, 1fr);
+}
+#home_textiles .product_body{
+  grid-template-columns: repeat(2, 1fr);
+}
 .products_title h1 {
   font-size: 40px;
 }
@@ -1080,5 +1126,13 @@ section {
 }
   footer .overlay {
     padding: 50px 0px 40px 0px;
+  }
+}
+@media (max-width: 575px){
+  .product_body{
+    grid-template-columns: repeat(1, 1fr);
+  }
+  #home_textiles .product_body{
+    grid-template-columns: repeat(1, 1fr);
   }
 }

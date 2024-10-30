@@ -20,21 +20,21 @@
 
   <main class="main">
 
-    <section class="products_bg denim_bg" style="background-image: url(../assets/images/background/denim.png);">
+    <section class="products_bg non_denim_bg" style="background-image: url(../assets/images/background/non-denim.png);">
       <div class="products_text">
         <div class="products_title">
-          <h1>Denim</h1>
-          <h6>FROM CASUAL TO CHIC</h6>
+          <h1>NON-DENIM</h1>
+          <h6>VERSATILE TO VIBRANT FASHION</h6>
         </div>
         <div class="products_arrow">
-          <a href="#product_id">
+          <a class="product_body_id" href="#product_id">
             <i class="fa-solid fa-angle-down"></i>
           </a>
         </div>
       </div>
     </section>
 
-    <section class="products_img" id="product_id">
+    <section class="products_img " id="product_id">
       <div class="container">
         <div class="row">
           <div class="col-12">

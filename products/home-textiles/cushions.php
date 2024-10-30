@@ -20,11 +20,11 @@
 
   <main class="main">
 
-    <section class="products_bg knitwear_bg">
+    <section class="products_bg cushions_bg" style="background-image: url(../../assets/images/hometextiles-bg/cushions.jpg);">
       <div class="products_text">
         <div class="products_title">
           <h1>Cushions</h1>
-          <!-- <h6>Woven to Cushions</h6> -->
+          <h6>ESSENTIALS TO ELEGANCE</h6>
         </div>
         <div class="products_arrow">
           <a href="#product_id">
