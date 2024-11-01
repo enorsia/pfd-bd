@@ -40,7 +40,7 @@
           <div class="col-12">
             <div class="img_container">
 
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/knitwear/1.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/1.jpeg" />
                 </a>
@@ -51,7 +51,7 @@
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" />
                 </a>
               </div>
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" />
                 </a>
@@ -66,7 +66,44 @@
                   <img src="<?php echo $base_url; ?>assets/images/products/knitwear/5.jpeg" />
                 </a>
               </div>
-             
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/knitwear/1.jpeg" />
+                </a>
+              </div>
+
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/4.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/knitwear/4.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/knitwear/2.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/knitwear/3.jpeg" />
+                </a>
+              </div>
+              <div>
+
             </div>
           </div>
         </div>

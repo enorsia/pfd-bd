@@ -656,7 +656,7 @@
         <div class="row sustainabilityWrapper">
           <!-- Services 1,2,3 -->
           <div
-            class="col-lg-4 mb-5 mb-lg-0 wow fadeInLeft"
+            class="col-lg-4 mb-sm-5 mb-0 mb-lg-0 wow fadeInLeft"
             data-wow-duration="1s"
             data-wow-delay=".5s">
             <!-- Item 1-->
@@ -719,7 +719,7 @@
             </div>
           </div>
           <div
-            class="col-lg-4 mb-5 mb-lg-0 wow fadeInLeft"
+            class="col-lg-4 mb-sm-5 mb-0 mb-lg-0 wow fadeInLeft"
             data-wow-duration="1s"
             data-wow-delay=".5s">
             <!-- Item 3-->

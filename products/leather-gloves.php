@@ -39,18 +39,17 @@
         <div class="row">
           <div class="col-12">
             <div class="img_container">
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/1.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/1.jpeg" />
                 </a>
               </div>
-
               <div>
                 <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/2.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/2.jpeg" />
                 </a>
               </div>
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/3.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/3.jpeg" />
                 </a>
@@ -75,7 +74,32 @@
                   <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/7.jpeg" />
                 </a>
               </div>
-             
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/3.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/3.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/4.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/4.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/5.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/5.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/6.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/6.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/leather_gloves/7.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/leather_gloves/7.jpeg" />
+                </a>
+              </div>
+
             </div>
           </div>
         </div>

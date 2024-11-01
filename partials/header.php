@@ -122,6 +122,12 @@
                         </a>
                     </li>
                     <li class="nav-item level_1">
+                        <a class="nav-link level_link_1" href="<?php echo $base_url; ?>company-profile.php">
+                            <span class="w-nav-title">Company Profile</span>
+                            <span class="w-nav-arrow"></span>
+                        </a>
+                    </li>
+                    <li class="nav-item level_1">
                         <a class="nav-link level_link_1" href="<?php echo $base_url; ?>services.php">
                             <span class="w-nav-title">Services</span>
                             <span class="w-nav-arrow"></span>

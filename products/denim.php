@@ -40,7 +40,7 @@
           <div class="col-12">
             <div class="img_container">
 
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/denim/1.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/denim/1.jpeg" />
                 </a>
@@ -51,7 +51,7 @@
                   <img src="<?php echo $base_url; ?>assets/images/products/denim/2.jpeg" />
                 </a>
               </div>
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
                   <img src="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" />
                 </a>
@@ -59,6 +59,41 @@
               <div>
                 <a href="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" data-fancybox="gallery" data-caption="Caption #1">
                   <img src="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                  <img src="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                  <img src="<?php echo $base_url; ?>assets/images/products/denim/3.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/denim/4.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/denim/5.jpeg" />
                 </a>
               </div>
               <div>

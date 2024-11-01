@@ -33,7 +33,76 @@
         </div>
       </div>
     </section>
-
+    <section class="products_img" id="product_id">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="img_container">
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/1.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/1.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/2.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/2.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/3.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/4.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/4.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/5.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/5.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/6.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/6.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/1.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/1.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/2.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/2.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/3.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/4.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/4.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/5.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/5.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/towels/6.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/towels/6.jpeg" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
     <?php include('../partials/related-product.php') ?>

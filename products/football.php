@@ -40,14 +40,12 @@
           <div class="col-12">
             <div class="img_container">
 
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" />
                 </a>
               </div>
-
-              
-              <div class="vertical">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
                   <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" />
                 </a>
@@ -57,8 +55,53 @@
                   <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/2.jpeg" />
                 </a>
               </div>
-             
-             
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/2.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/2.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/2.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/2.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" data-fancybox="gallery" data-caption="Caption #2">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/3.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/sports_ball/2.jpeg" data-fancybox="gallery" data-caption="Caption #1">
+                  <img src="<?php echo $base_url; ?>assets/images/products/sports_ball/2.jpeg" />
+                </a>
+              </div>
+
+
             </div>
           </div>
         </div>

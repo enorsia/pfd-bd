@@ -40,13 +40,68 @@
           <div class="col-12">
             <div class="img_container">
 
-           
-              <div class="big">
-              <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
                 </a>
               </div>
-             
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/flannels/1.jpeg" />
+                </a>
+              </div>
+
             </div>
           </div>
         </div>
