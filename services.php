@@ -29,7 +29,7 @@
         <div class="container">
           <div class="row">
             <div class="col-12 text-center">
-              <h5 class="text-white">
+              <h5 class="text-white " id="service_text">
                 Enorsia PFD provides a comprehensive range of services designed to meet our clients' needs at every stage of the textile business. From fabric sourcing to product development—whether for standard or customized finishes—we ensure quality at every step. Our offerings include, Supplier selection, quality assurance and logistics, making us your trusted partner in delivering excellence.
               </h5>
             </div>

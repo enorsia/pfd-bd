@@ -39,7 +39,52 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="img_container">
-                            <div class="big">
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/2.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/2.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/3.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/3.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/2.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/2.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/3.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/3.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" />
+                                </a>
+                            </div>
+                            <div>
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/2.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/2.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
+                                <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/3.jpeg" data-fancybox="gallery" data-caption="">
+                                    <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/3.jpeg" />
+                                </a>
+                            </div>
+                            <div class="">
                                 <a href="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" data-fancybox="gallery" data-caption="">
                                     <img src="<?php echo $base_url; ?>assets/images/products/home_textiles/blanket/1.jpeg" />
                                 </a>

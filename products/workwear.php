@@ -39,18 +39,17 @@
         <div class="row">
           <div class="col-12">
             <div class="img_container">
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/workwear/1.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/workwear/1.jpeg" />
                 </a>
               </div>
-
               <div>
                 <a href="<?php echo $base_url; ?>assets/images/products/workwear/2.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/workwear/2.jpeg" />
                 </a>
               </div>
-              <div class="big">
+              <div class="">
                 <a href="<?php echo $base_url; ?>assets/images/products/workwear/3.jpeg" data-fancybox="gallery" data-caption="">
                   <img src="<?php echo $base_url; ?>assets/images/products/workwear/3.jpeg" />
                 </a>
@@ -90,7 +89,17 @@
                   <img src="<?php echo $base_url; ?>assets/images/products/workwear/10.jpeg" />
                 </a>
               </div>
-             
+              <div class="">
+                <a href="<?php echo $base_url; ?>assets/images/products/workwear/1.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/workwear/1.jpeg" />
+                </a>
+              </div>
+              <div>
+                <a href="<?php echo $base_url; ?>assets/images/products/workwear/2.jpeg" data-fancybox="gallery" data-caption="">
+                  <img src="<?php echo $base_url; ?>assets/images/products/workwear/2.jpeg" />
+                </a>
+              </div>
+
             </div>
           </div>
         </div>
